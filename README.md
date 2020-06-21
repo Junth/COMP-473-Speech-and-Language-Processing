@@ -8,3 +8,12 @@
   <li>Back to Python: Making Decisions and Taking Control</li>
   <li>Automatic Natural Language Understanding</li>
 </ol>
+
+## Lab 2: Accessing Text Corpora and Lexical Resources
+<ol >
+  <li>Accessing Text Corpora</li>
+  <li>Conditional Frequency Distributions</li>
+  <li>More Python: Reusing Code</li>
+  <li>Lexical Resources</li>
+  <li>WordNet</li>
+</ol>
