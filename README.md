@@ -17,3 +17,16 @@
   <li>Lexical Resources</li>
   <li>WordNet</li>
 </ol>
+
+## Lab 3: Processing Raw Text
+<ol >
+  <li>Accessing Text from the Web and from Disk</li>
+  <li>Strings: Text Processing at the Lowest Level</li>
+  <li>Text Processing with Unicode</li>
+  <li>Regular Expressions for Detecting Word Patterns</li>
+  <li>Useful Applications of Regular Expressions</li>
+  <li>Normalizing Text</li>
+  <li>Regular Expressions for Tokenizing Text</li>
+  <li> Segmentation</li>
+  <li>Formatting: From Lists to Strings</li>
+</ol>
