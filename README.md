@@ -30,3 +30,15 @@
   <li> Segmentation</li>
   <li>Formatting: From Lists to Strings</li>
 </ol>
+
+## Lab 4: Writing Structured Programs
+<ol >
+  <li>Back to the Basics</li>
+  <li>Sequences</li>
+  <li>Questions of Style</li>
+  <li>Functions: The Foundation of Structured Programming</li>
+  <li>Doing More with Functions</li>
+  <li>Program Development</li>
+  <li>Algorithm Design</li>
+  <li>A Sample of Python Libraries</li>
+</ol>
