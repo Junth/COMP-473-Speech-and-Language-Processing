@@ -42,3 +42,14 @@
   <li>Algorithm Design</li>
   <li>A Sample of Python Libraries</li>
 </ol>
+
+## Lab 5: Categorizing and Tagging Words
+<ol >
+  <li>Using a Tagger</li>
+  <li>Tagged Corpora</li>
+  <li>Mapping Words to Properties Using Python Dictionaries</li>
+  <li>Automatic Tagging</li>
+  <li>N-Gram Tagging</li>
+  <li>Transformation-Based Tagging</li>
+  <li>How to Determine the Category of a Word</li>
+</ol>
