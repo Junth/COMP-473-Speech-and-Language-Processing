@@ -53,3 +53,14 @@
   <li>Transformation-Based Tagging</li>
   <li>How to Determine the Category of a Word</li>
 </ol>
+
+## Lab 6: Learning to Classify Text
+<ol >
+  <li>Supervised Classification</li>
+  <li>Further Examples of Supervised Classification</li>
+  <li>Evaluation</li>
+  <li>Decision Trees</li>
+  <li>Naive Bayes Classifiers</li>
+  <li>Maximum Entropy Classifiers</li>
+  <li>Modeling Linguistic Patterns</li>
+</ol>
