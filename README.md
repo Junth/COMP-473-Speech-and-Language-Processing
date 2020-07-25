@@ -65,7 +65,7 @@
   <li>Modeling Linguistic Patterns</li>
 </ol>
 
-## Lab 6: Learning to Classify Text
+## Lab 7: Extracting Information from Text
 <ol >
   <li>Information Extraction</li>
   <li>Chunking</li>
