@@ -64,3 +64,13 @@
   <li>Maximum Entropy Classifiers</li>
   <li>Modeling Linguistic Patterns</li>
 </ol>
+
+## Lab 6: Learning to Classify Text
+<ol >
+  <li>Information Extraction</li>
+  <li>Chunking</li>
+  <li>Developing and Evaluating Chunkers</li>
+  <li>Recursion in Linguistic Structure</li>
+  <li>Named Entity Recognition</li>
+  <li>Relation Extraction</li>
+</ol>
