@@ -74,3 +74,13 @@
   <li>Named Entity Recognition</li>
   <li>Relation Extraction</li>
 </ol>
+
+## Lab 8: Analyzing Sentence Structure
+<ol >
+  <li>Some Grammatical Dilemmas</li>
+  <li>What's the Use of Syntax?</li>
+  <li>Context Free Grammar</li>
+  <li>Parsing With Context Free Grammar</li>
+  <li>Dependencies and Dependency Grammar</li>
+  <li>Grammar Development</li>
+</ol>
